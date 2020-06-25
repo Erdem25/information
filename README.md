@@ -9,7 +9,7 @@
 -----
 
 
-```ruby
+```javascript
 require 'github/markup'
 
 GitHub::Markup.render(file, File.read(file))
