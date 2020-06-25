@@ -9,6 +9,8 @@
 -----
 
 # My Life Story
+-----
 I was born in ```Turkey```, a child born and raised in ```Istanbul```.
 I Can't Say That I Find Justice but I Can Say I Have Provided ```Justice```.
 You Always Know What They Say Human is a Slave of Money.
+-----
