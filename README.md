@@ -9,8 +9,6 @@
 -----
 
 
-```js
-require 'github/markup'
-
-GitHub::Markup.render(file, File.read(file))
+```
+sa
 ```
